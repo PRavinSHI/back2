@@ -372,7 +372,7 @@ def info(update: Update, context: CallbackContext):
                                 "Health", url="https://t.me/MISSHARELYLUNA/5"
                             ),
                             InlineKeyboardButton(
-                                "Disaster", url="https://t.me/lunasupportz"
+                                "support", url="https://t.me/lunasupportz"
                             ),
                         ],
                     ]
