@@ -81,19 +81,19 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-[thecoolmoon](https://telegra.ph/file/52b1b195f0d7df5ff79b2.jpg)
+
 ╔ /start: Starts me! You've probably already used this.
 ╠ /help: Click this, I'll let you know about myself!
 ╠ /donate: You can support my creater using this command.
 ╠ /settings : 
 ╚══║in PM: will send you your settings for all supported modules.
    ╚ in a Group: will redirect you to pm, with all that chat's settings.
-   Powered by : [ALAN WALKER](https://t.me/tamilchating_fed)
+   Powered by : [ALAN WALKER](https://telegra.ph/file/52b1b195f0d7df5ff79b2.jpg)
 """
 
 buttons = [
     [
-        InlineKeyboardButton(text="About Emiko Robot", callback_data="emiko_"),
+        InlineKeyboardButton(text="About THE LUNA", callback_data="emiko_"),
     ],
     [
         InlineKeyboardButton(text="Get Help", callback_data="help_back"),
@@ -101,7 +101,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➗ Add Emiko To Your Group ➗", url="t.me/EmiexRobot?startgroup=new"
+            text="➗ Add LUNA To Your Group ➗", url="https://t.me/Missharelyluna_bot?startgroup=new"
         ),
     ],
 ]
@@ -110,10 +110,10 @@ buttons = [
 HELP_STRINGS = """
 Click on the button bellow to get description about specifics command."""
 
-EMI_IMG = "https://telegra.ph/file/5ff1cb39902809148f07f.jpg"
+EMI_IMG = "https://telegra.ph/file/52b1b195f0d7df5ff79b2.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting @excrybaby \
+ You can support the project by contacting [ALAN WALKER](https://t.me/alpha_romeo_06) \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
@@ -478,45 +478,46 @@ def emiko_about_callback(update, context):
             "\nHere Developers Making And Give Inspiration For Made The EmikoRobot",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
+                
                 [
                     [
                         InlineKeyboardButton(
-                            text="sena-ex", url="https://github.com/kennedy-ex"
+                            text="Luna", url="https://t.me/MISSHARELYLUNA"
                         ),
                         InlineKeyboardButton(
-                            text="TheHamkerCat", url="https://github.com/TheHamkerCat"
-                        ),
-                    ],
-                    [
-                        InlineKeyboardButton(
-                            text="Feri", url="https://github.com/FeriEXP"
-                        ),
-                        InlineKeyboardButton(
-                            text="riz-ex", url="https://github.com/riz-ex"
+                            text="GP",url="https://t.me/Gplove_Rp"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="Anime Kaizoku", url="https://github.com/animekaizoku"
+                            text="GBAN APPEAL", url="https://t.me/+XIXpe_mMeHtiMjdl"
                         ),
                         InlineKeyboardButton(
-                            text="TheGhost Hunter", url="https://github.com/HuntingBots"
-                        ),
-                    ],
-                    [
-                        InlineKeyboardButton(
-                            text="Inuka Asith", url="https://github.com/inukaasith"
-                        ),
-                        InlineKeyboardButton(
-                            text="Noob-Kittu", url="https://github.com/noob-kittu"
+                            text="BAN LOG", url="https://t.me/thecoolmoon"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="Queen Arzoo", url="https://github.com/QueenArzoo"
+                            text="BOT RCT CALL", url="https://t.me/thecoolmoon"
                         ),
                         InlineKeyboardButton(
-                            text="Paul Larsen", url="https://github.com/PaulSonOfLars"
+                            text="VEDIO CHANNEL", url="https://t.me/alan_walker_share"
+                        ),
+                    ],
+                    [
+                        InlineKeyboardButton(
+                            text="OFFICIAL TALK", url="https://t.me/luna_officials"
+                        ),
+                        InlineKeyboardButton(
+                            text="OFF TALKS", url="https://t.me/thecoolmoonoff"
+                        ),
+                    ],
+                    [
+                        InlineKeyboardButton(
+                            text="ALAN WALKER", url="https://t.me/Missharelyluna_bot"
+                        ),
+                        InlineKeyboardButton(
+                            text="BOT UPDATE", url="https://t.me/MISSHARELYLUNA"
                         ),
                     ],
                     [
