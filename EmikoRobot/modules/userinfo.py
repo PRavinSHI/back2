@@ -265,7 +265,7 @@ def info(update: Update, context: CallbackContext):
     else:
         return
 
-    rep = message.reply_text("<code>Getting info...</code>", parse_mode=ParseMode.HTML)
+    rep = message.reply_text("<code>COOLMOON DATABASE...</code>", parse_mode=ParseMode.HTML)
 
     text = (
         f"╔═━「<b> Appraisal results:</b> 」\n"
@@ -331,7 +331,7 @@ def info(update: Update, context: CallbackContext):
         disaster_level_present = True
     elif user.id == 1829047705:
         text += (
-            "\n\nOwner Of A Bot. Queen Of @excrybaby. Bot Name Inspired From 'JoJo'."
+            "\n\nOwner Of A Bot. [ALAN WALKER](https://t.me/Missharelyluna_bot). Bot Name Inspired From 'ALAN WALKER'."
         )
         disaster_level_present = True
 
@@ -369,10 +369,10 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "Health", url="https://t.me/KennedyProject/44"
+                                "Health", url="https://t.me/MISSHARELYLUNA/5"
                             ),
                             InlineKeyboardButton(
-                                "Disaster", url="https://t.me/KennedyProject/43"
+                                "Disaster", url="https://t.me/lunasupportz"
                             ),
                         ],
                     ]
@@ -389,10 +389,10 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "Health", url="https://t.me/KennedyProject/44"
+                                "Health", url="https://t.me/MISSHARELYLUNA/5"
                             ),
                             InlineKeyboardButton(
-                                "Disaster", url="https://t.me/KennedyProject/43"
+                                "SUPPORT", url="https://t.me/lunasupportz"
                             ),
                         ],
                     ]
@@ -467,11 +467,11 @@ def set_about_me(update: Update, context: CallbackContext):
 
 @sudo_plus
 def stats(update: Update, context: CallbackContext):
-    stats = "<b>╔═━「 Current Emiko Statistics 」</b>\n" + "\n".join(
+    stats = "<b>╔═━「 Current THECOOLMOON Statistics 」</b>\n" + "\n".join(
         [mod.__stats__() for mod in STATS]
     )
     result = re.sub(r"(\d+)", r"<code>\1</code>", stats)
-    result += "\n<b>╘═━「 Powered By kennedy-ex 」</b>"
+    result += "\n<b>╘═━「 Powered By ALAN WALKER 」</b>"
     update.effective_message.reply_text(
         result, parse_mode=ParseMode.HTML, disable_web_page_preview=True
     )
