@@ -82,13 +82,13 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 
-᯾ /start: Starts me! You've probably already used this.
-᯾ /help: Click this, I'll let you know about myself!
-᯾ /donate: You can support my creater using this command.
-᯾ /settings : 
-╚══᯾in PM: will send you your settings for all supported modules.
-    ᯾ in a Group: will redirect you to pm, with all that chat's settings.
-   Powered by : [⛓️✨🇵​🇷​𝘼〽️𝙔𝘼𝙑𝙄𝙉𝘾𝙔⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ༄✨⛓️](https://telegra.ph/file/85bfb0f5af421fd03a767.jpg)
+✯ /start: Starts me! You've probably already used this.
+✯ /help: Click this, I'll let you know about myself!
+✯ /donate: You can support my creater using this command.
+✯ /settings : 
+╚══✯in PM: will send you your settings for all supported modules.
+    ✯ in a Group: will redirect you to pm, with all that chat's settings.
+   Powered by : [⛓️🇵​🇷​𝘼〽️𝙔𝘼𝙑𝙄𝙉𝘾𝙔༄⛓️](https://telegra.ph/file/85bfb0f5af421fd03a767.jpg)
 """
 
 buttons = [
@@ -113,7 +113,7 @@ Click on the button bellow to get description about specifics command."""
 EMI_IMG = "https://telegra.ph/file/85bfb0f5af421fd03a767.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting [⛓️✨🇵​🇷​𝘼〽️𝙔𝘼𝙑𝙄𝙉𝘾𝙔⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ༄✨⛓️](https://t.me/Gplove_Rp) \
+ You can support the project by contacting [⛓️🇵​🇷​𝘼〽️𝙔𝘼𝙑𝙄𝙉𝘾𝙔༄⛓️](https://t.me/Gplove_Rp) \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
@@ -369,7 +369,7 @@ def emiko_about_callback(update, context):
     query = update.callback_query
     if query.data == "emiko_":
         query.message.edit_text(
-            text="๏ I'm *LUNA*, a powerful group management bot built to help you manage your group easily."
+            text="๏ I'm *ROSI*, a powerful group management bot built to help you manage your group easily."
             "\n• I can restrict users."
             "\n• I can greet users with customizable welcome messages and even set a group's rules."
             "\n• I have an advanced anti-flood system."
@@ -399,7 +399,7 @@ def emiko_about_callback(update, context):
                     [
                         InlineKeyboardButton(
                             text="Source Code",
-                            url="https://t.me/lunasupportz",
+                            url="https://t.meRosisupport",
                         ),
                     ],
                     [
@@ -484,7 +484,7 @@ def emiko_about_callback(update, context):
                 [
                     [
                         InlineKeyboardButton(
-                            text="Luna", url="https://t.me/MISSHARELYLUNA"
+                            text="ROSI", url="https://t.me/MissRosinetwork"
                         ),
                         InlineKeyboardButton(
                             text="GP",url="https://t.me/Gplove_Rp"
@@ -495,7 +495,7 @@ def emiko_about_callback(update, context):
                             text="GBAN APPEAL", url="https://t.me/+XIXpe_mMeHtiMjdl"
                         ),
                         InlineKeyboardButton(
-                            text="BAN LOG", url="https://t.me/thecoolmoon"
+                            text="BAN LOG", url="https://t.me/rosi_logs"
                         ),
                     ],
                     [
@@ -503,12 +503,12 @@ def emiko_about_callback(update, context):
                             text="BOT RCT CALL", url="https://t.me/thecoolmoon"
                         ),
                         InlineKeyboardButton(
-                            text="VEDIO CHANNEL", url="https://t.me/alan_walker_share"
+                            text="VEDIO CHANNEL", url="https://t.me/GP_CREATION_CAT"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="OFFICIAL TALK", url="https://t.me/luna_officials"
+                            text="OFFICIAL TALK", url="https://t.me/RosiOfficial"
                         ),
                         InlineKeyboardButton(
                             text="OFF TALKS", url="https://t.me/thecoolmoonoff"
@@ -516,10 +516,10 @@ def emiko_about_callback(update, context):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ALAN WALKER", url="https://t.me/Missharelyluna_bot"
+                            text="✨🇵​🇷​𝘼〽️𝙔𝘼𝙑𝙄𝙉𝘾𝙔༄✨", url="https://t.me/Rosiultra_bot"
                         ),
                         InlineKeyboardButton(
-                            text="BOT UPDATE", url="https://t.me/MISSHARELYLUNA"
+                            text="BOT UPDATE", url="https://t.me/MissRosinetwork"
                         ),
                     ],
                     [
@@ -790,7 +790,7 @@ def donate(update: Update, context: CallbackContext):
             DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True
         )
 
-        if OWNER_ID != 1606221784:
+        if OWNER_ID != 1787018972:
             update.effective_message.reply_text(
                 "I'm free for everyone ❤️ If you wanna make me smile, just join"
                 "[My Channel]({})".format(DONATION_LINK),
