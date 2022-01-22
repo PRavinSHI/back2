@@ -88,7 +88,7 @@ PM_START_TEXT = """
 ╠ /settings : 
 ╚══║in PM: will send you your settings for all supported modules.
    ╚ in a Group: will redirect you to pm, with all that chat's settings.
-   Powered by : [ALAN WALKER](https://telegra.ph/file/52b1b195f0d7df5ff79b2.jpg)
+   Powered by : [⛓️✨🇵​🇷​𝘼〽️𝙔𝘼𝙑𝙄𝙉𝘾𝙔⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ༄✨⛓️](https://telegra.ph/file/85bfb0f5af421fd03a767.jpg)
 """
 
 buttons = [
@@ -110,10 +110,10 @@ buttons = [
 HELP_STRINGS = """
 Click on the button bellow to get description about specifics command."""
 
-EMI_IMG = "https://telegra.ph/file/52b1b195f0d7df5ff79b2.jpg"
+EMI_IMG = "https://telegra.ph/file/85bfb0f5af421fd03a767.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting [ALAN WALKER](https://t.me/alpha_romeo_06) \
+ You can support the project by contacting [⛓️✨🇵​🇷​𝘼〽️𝙔𝘼𝙑𝙄𝙉𝘾𝙔⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ༄✨⛓️](https://t.me/Gplove_Rp) \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
