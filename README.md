@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://telegra.ph/file/5a180a318e09d49295c8e.jpg">
+<p align="center"> 🇷 ⭕ 🇸 🇮   
+  <img src="https://telegra.ph/file/bb5c64cf6fc7facd37b08.jpg">
 </p>
 
 <h4><p align="center"> EMIKO ROBOT </p></h4>
