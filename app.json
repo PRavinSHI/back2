@@ -1,5 +1,5 @@
 {
-      "name": "Emiko Robot",
+      "name": "ROSI Robot",
       "description": "A Powerful  Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -9,8 +9,8 @@
          "naorobot"
       ],
     
-   "logo":    "https://telegra.ph/file/35e56ba7eace7332356ad.jpg",  
-   "repository": "https://github.com/kennedy-ex/https://github.com/kennedy-ex/EmikoRobot",
+   "logo":    "https://telegra.ph/file/f6b247acbd441dc3e0d7f.jpg",  
+   "repository": "https://github.com/PravincyGp/back2",
    "addons": [
           {
          "options": {
@@ -79,7 +79,7 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "emikosupport"
+         "value": "Rosisupport"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
