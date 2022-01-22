@@ -82,18 +82,18 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 
-╔ /start: Starts me! You've probably already used this.
-╠ /help: Click this, I'll let you know about myself!
-╠ /donate: You can support my creater using this command.
-╠ /settings : 
-╚══║in PM: will send you your settings for all supported modules.
-   ╚ in a Group: will redirect you to pm, with all that chat's settings.
+᯾ /start: Starts me! You've probably already used this.
+᯾ /help: Click this, I'll let you know about myself!
+᯾ /donate: You can support my creater using this command.
+᯾ /settings : 
+╚══᯾in PM: will send you your settings for all supported modules.
+    ᯾ in a Group: will redirect you to pm, with all that chat's settings.
    Powered by : [⛓️✨🇵​🇷​𝘼〽️𝙔𝘼𝙑𝙄𝙉𝘾𝙔⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ༄✨⛓️](https://telegra.ph/file/85bfb0f5af421fd03a767.jpg)
 """
 
 buttons = [
     [
-        InlineKeyboardButton(text="About THE LUNA", callback_data="emiko_"),
+        InlineKeyboardButton(text="About THE ROSI", callback_data="emiko_"),
     ],
     [
         InlineKeyboardButton(text="Get Help", callback_data="help_back"),
@@ -101,7 +101,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➗ Add LUNA To Your Group ➗", url="https://t.me/Missharelyluna_bot?startgroup=new"
+            text="➗ Add ROSI To Your Group ➗", url="https://t.me/Rosiultra_bot?startgroup=new"
         ),
     ],
 ]
