@@ -68,7 +68,7 @@ kill_you = [
     "------------------>",
     "------>;(^。^)ノ",
     "(￣ー￣) DED",
-    "**Target killed successfully",
+    "**சமூக விரோதி செத்துவிட்டான்",
 ]
 
 
@@ -111,6 +111,7 @@ hack_you = [
     "Looking for WhatsApp databases in targeted person...",
     " User online: True\nTelegram access: True\nRead Storage: True ",
     "Hacking... 20.63%\n[███░░░░░░░░░░░░░░░░░]",
+    "Hacking... 50.51%\n[█████████░░░░░░░░░░░]",
     "Hacking... 86.21%\n[███████████████░░░░░]",
     "Hacking... 93.50%\n[█████████████████░░░]",
     "hacking....  100%\n[████████████████████]",
