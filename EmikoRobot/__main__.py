@@ -377,7 +377,7 @@ def emiko_about_callback(update, context):
             "\n• I have a note keeping system, blacklists, and even predetermined replies on certain keywords."
             "\n• I check for admins' permissions before executing any command and more stuffs"
             "\n\n_Emiko's licensed under the GNU General Public License v3.0_"
-            "\n\n Click on button bellow to get basic help for THECOOLMOON.",
+            "\n\n Click on button bellow to get basic help for THE THEROSICAT.",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -462,9 +462,9 @@ def emiko_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="Support", url="https://t.me/lunasupportz"),
+                        InlineKeyboardButton(text="Support", url="https://t.me/Rosisupport"),
                         InlineKeyboardButton(
-                            text="Updates", url="https://t.me/MISSHARELYLUNA"
+                            text="Updates", url="https://t.me/MissRosinetwork"
                         ),
                     ],
                     [
@@ -477,7 +477,7 @@ def emiko_about_callback(update, context):
     elif query.data == "emiko_credit":
         query.message.edit_text(
             text=f"๏ Credis for Emiko\n"
-            "\nHere Developers Making And Give Inspiration For Made Thecoolmoon",
+            "\nHere Developers Making And Give Inspiration For Made TheRosicat",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 
@@ -487,12 +487,12 @@ def emiko_about_callback(update, context):
                             text="ROSI", url="https://t.me/MissRosinetwork"
                         ),
                         InlineKeyboardButton(
-                            text="GP",url="https://t.me/Gplove_Rp"
+                            text="PRAVINCY",url="https://t.me/Gplove_Rp"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="GBAN APPEAL", url="https://t.me/+XIXpe_mMeHtiMjdl"
+                            text="GBAN APPEAL", url="https://t.me/Rosi_Ban_appeal_Cat"
                         ),
                         InlineKeyboardButton(
                             text="BAN LOG", url="https://t.me/rosi_logs"
@@ -500,7 +500,7 @@ def emiko_about_callback(update, context):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="BOT RCT CALL", url="https://t.me/thecoolmoon"
+                            text="BOT RCT CALL", url="https://t.me/theRosicat"
                         ),
                         InlineKeyboardButton(
                             text="VEDIO CHANNEL", url="https://t.me/GP_CREATION_CAT"
