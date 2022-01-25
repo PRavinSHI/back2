@@ -245,8 +245,8 @@ async def hmm(client, message):
         )
         response = response.replace("Aco", "Emiko")
         response = response.replace("aco", "emiko")
-        response = response.replace("Luna", "Emiko")
-        response = response.replace("luna", "emiko")
+        response = response.replace("Rosi", "Emiko")
+        response = response.replace("Rosi", "emiko")
         response = response.replace("I'm a Christian", "My god is @excrybaby")
         response = response.replace("9", "16")
         response = response.replace(
@@ -460,7 +460,7 @@ async def inuka(client, message):
         "Hi, My name is Emiko Nice to meet you.",
         "Hi, my friend, what can I do for you today?",
     )
-    response = await lunaQuery(test, message.from_user.id if message.from_user else 0)
+    response = await Rosicat(test, message.from_user.id if message.from_user else 0)
     response = response.replace("Aco", "Emiko")
     response = response.replace("aco", "emiko")
     response = response.replace("Luna", "Emiko")
