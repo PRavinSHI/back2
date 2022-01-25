@@ -19,7 +19,7 @@
 
 ### Easiest Way To Deploy On Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PravincyGp/back2.git)> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PravincyGp/back2.git) <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ```
 This Bot is Created by KennedyProject, If your kanging this without fork at least give a credit to get a smile of my hard work. 
@@ -38,7 +38,7 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 <a href="https://t.me/MissRosinetwork"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
 </p>
 
-## Credit 
+### Credit 
 
    - [✨🇩𝗶𝗻𝗲𝘀𝗵✨](https://t.me/Dinesh_dv29)
 
@@ -60,6 +60,6 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 
    -  [🇷𝗼𝘀𝗶🐱](https://t.me/RosiCat)
 
-## GP Channel🐱
+### GP Channel🐱
 
    - [✨🐱🇬 🇵 𝐂 𝐑 𝐄 𝔸 𝕋 𝐈 𝐎 ℕ ✨](https://t.me/GP_CREATION_CAT)
