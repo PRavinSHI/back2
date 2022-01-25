@@ -40,25 +40,25 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 
 ## Credit 
 
-   - [✨🇩𝗜𝗡𝗘𝗦𝗛✨](https://t.me/Dinesh_dv29)
+   - [✨🇩𝗶𝗻𝗲𝘀𝗵✨](https://t.me/Dinesh_dv29)
 
-   - [✨🇵𝐑𝗔𝗩𝗜𝗡𝗖𝗬✨](https://t.me/Gplove_Rp)
+   - [✨🇵𝗿𝗮𝘃𝗶𝗻𝗰𝘆✨](https://t.me/Gplove_Rp)
 
-   - [༒☬ 𝕭𝖑𝖆𝖈𝖐 ☬༒](https://t.me/nanapdithan)
+   - [✨🇧𝗹𝗮𝗰𝗸✨](https://t.me/nanapdithan)
 
-   - [⭕𝐕𝐀𝐀𝐓𝐇𝐈⭕](https://t.me/thala_vera_maari)
+   - [✨🇻𝗮𝗮𝘁𝗵𝗶✨](https://t.me/thala_vera_maari)
 
-   - [😈 ⃟💘⃞🇦𝗹𝗮𝗻 🇼𝗮𝗹𝗸𝗲𝗿](https://t.me/alpha_romeo_06)
+   - [✨🇦𝗹𝗮𝗻 🇼𝗮𝗹𝗸𝗲𝗿✨](https://t.me/alpha_romeo_06)
 
-   - [⛓️✨🇯𝐚𝐜𝐊✨⛓️ ](https://t.me/jackjack63 )
+   - [✨🇯𝐚𝐜𝐊✨](https://t.me/jackjack63 )
 
-   - [⛓️✨𝐒𝐚𝐭𝐡𝐢𝐬𝐡✨⛓️](https://t.me/Sathish_cat)
+   - [✨🇸𝗮𝘁𝗵𝗶𝘀𝗵✨](https://t.me/Sathish_cat)
 
-   - [💫𒆜...𝘼𝙆𝘼𝙎𝙃...𒆜💫](https://t.me/Russells_Viper)
+   - [✨🇦𝗸𝗮𝘀𝗵✨](https://t.me/Russells_Viper)
 
 ## Rosicat info🐱
 
-   -  [🇷𝗢𝗦𝗜🐱](https://t.me/RosiCat)
+   -  [🇷𝗼𝘀𝗶🐱](https://t.me/RosiCat)
 
 ## GP Channel🐱
 
