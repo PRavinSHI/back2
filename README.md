@@ -39,16 +39,27 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 </p>
 
 ## Credit 
-  
-   - [⛓️✨🇵​🇷​𝘼〽️𝙔𝘼𝙑𝙄𝙉𝘾𝙔⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ༄✨⛓️](https://t.me/Gplove_Rp)
+
+   - [✨🇩𝗜𝗡𝗘𝗦𝗛✨](https://t.me/Dinesh_dv29)
+
+   - [✨🇵𝐑𝗔𝗩𝗜𝗡𝗖𝗬✨](https://t.me/Gplove_Rp)
+
    - [༒☬ 𝕭𝖑𝖆𝖈𝖐 ☬༒](https://t.me/nanapdithan)
+
    - [⭕𝐕𝐀𝐀𝐓𝐇𝐈⭕](https://t.me/thala_vera_maari)
+
    - [😈 ⃟💘⃞🇦𝗹𝗮𝗻 🇼𝗮𝗹𝗸𝗲𝗿](https://t.me/alpha_romeo_06)
+
    - [⛓️✨🇯𝐚𝐜𝐊✨⛓️ ](https://t.me/jackjack63 )
+
    - [⛓️✨𝐒𝐚𝐭𝐡𝐢𝐬𝐡✨⛓️](https://t.me/Sathish_cat)
+
    - [💫𒆜...𝘼𝙆𝘼𝙎𝙃...𒆜💫](https://t.me/Russells_Viper)
 
 ## Rosicat info🐱
+
    -  [🇷𝗢𝗦𝗜🐱](https://t.me/RosiCat)
+
 ## GP Channel🐱
+
    - [✨🐱🇬 🇵 𝐂 𝐑 𝐄 𝔸 𝕋 𝐈 𝐎 ℕ ✨](https://t.me/GP_CREATION_CAT)
