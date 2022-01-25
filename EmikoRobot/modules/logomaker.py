@@ -214,10 +214,10 @@ __mod_name__ = "Logomaker"
 
 __help__ = """ This is help menu for logomaker
 
-❂ /logo <text/name> - Create a logo with random view.
-❂ /wlogo <text/name> - Create a logo with wide view only.
+☼︎ /logo <text/name> - Create a logo with random view.
+☼︎ /wlogo <text/name> - Create a logo with wide view only.
 
  Image Editor :
 
-❂  /edit <reply photo> - to edit image.
+☼︎  /edit <reply photo> - to edit image.
 """
