@@ -467,7 +467,7 @@ def set_about_me(update: Update, context: CallbackContext):
 
 @sudo_plus
 def stats(update: Update, context: CallbackContext):
-    stats = "<b>╔═━「 Current THEROSICAT Statistics 」</b>\n" + "\n".join(
+    stats = "<b>╔═━「 Current THE ROSICAT Statistics 」</b>\n" + "\n".join(
         [mod.__stats__() for mod in STATS]
     )
     result = re.sub(r"(\d+)", r"<code>\1</code>", stats)
