@@ -265,24 +265,24 @@ def info(update: Update, context: CallbackContext):
     else:
         return
 
-    rep = message.reply_text("<code>COOLMOON DATABASE...</code>", parse_mode=ParseMode.HTML)
+    rep = message.reply_text("<code>ROSI🐱CAT DATABASE...</code>", parse_mode=ParseMode.HTML)
 
     text = (
         f"╔═━「<b> Appraisal results:</b> 」\n"
-        f"✪ ID: <code>{user.id}</code>\n"
-        f"✪ First Name: {html.escape(user.first_name)}"
+        f"👑 ID: <code>{user.id}</code>\n"
+        f"⚜️ First Name: {html.escape(user.first_name)}"
     )
 
     if user.last_name:
-        text += f"\n✪ Last Name: {html.escape(user.last_name)}"
+        text += f"\n⚜️ Last Name: {html.escape(user.last_name)}"
 
     if user.username:
-        text += f"\n✪ Username: @{html.escape(user.username)}"
+        text += f"\n⚜️ Username: @{html.escape(user.username)}"
 
-    text += f"\n✪ Userlink: {mention_html(user.id, 'link')}"
+    text += f"\n⚜️ Userlink: {mention_html(user.id, 'link')}"
 
     if chat.type != "private" and user_id != bot.id:
-        _stext = "\n✪ Presence: <code>{}</code>"
+        _stext = "\n⚜️ Presence: <code>{}</code>"
 
         afk_st = is_afk(user.id)
         if afk_st:
@@ -331,7 +331,7 @@ def info(update: Update, context: CallbackContext):
         disaster_level_present = True
     elif user.id == 1829047705:
         text += (
-            "\n\nOwner Of A Bot. [ALAN WALKER](https://t.me/Missharelyluna_bot). Bot Name Inspired From 'ALAN WALKER'."
+            "\n\nOwner Of A Bot. [PRAVINCY](https://t.me/Rosiultra_bot). Bot Name Inspired From 'PRAVINCY'."
         )
         disaster_level_present = True
 
@@ -369,10 +369,10 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "Health", url="https://t.me/MISSHARELYLUNA/5"
+                                "Health💪", url="https://t.me/MissRosinetwork"
                             ),
                             InlineKeyboardButton(
-                                "support", url="https://t.me/lunasupportz"
+                                "support🤝", url="https://t.me/Rosisupport"
                             ),
                         ],
                     ]
@@ -389,10 +389,10 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "Health", url="https://t.me/MISSHARELYLUNA/5"
+                                "Health💪", url="https://t.me/MissRosinetwork"
                             ),
                             InlineKeyboardButton(
-                                "SUPPORT", url="https://t.me/lunasupportz"
+                                "SUPPORT🤝", url="https://t.me/Rosisupport"
                             ),
                         ],
                     ]
@@ -467,11 +467,11 @@ def set_about_me(update: Update, context: CallbackContext):
 
 @sudo_plus
 def stats(update: Update, context: CallbackContext):
-    stats = "<b>╔═━「 Current THECOOLMOON Statistics 」</b>\n" + "\n".join(
+    stats = "<b>╔═━「 Current THEROSICAT Statistics 」</b>\n" + "\n".join(
         [mod.__stats__() for mod in STATS]
     )
     result = re.sub(r"(\d+)", r"<code>\1</code>", stats)
-    result += "\n<b>╘═━「 Powered By ALAN WALKER 」</b>"
+    result += "\n<b>╘═━「 Powered By PRAVINCY 」</b>"
     update.effective_message.reply_text(
         result, parse_mode=ParseMode.HTML, disable_web_page_preview=True
     )
@@ -564,32 +564,32 @@ def __user_info__(user_id):
 
 __help__ = """
 *ID:*
-❂ /id*:* get the current group id. If used by replying to a message, gets that user's id.
-❂ /gifid*:* reply to a gif to me to tell you its file ID.
+☼︎ /id*:* get the current group id. If used by replying to a message, gets that user's id.
+☼︎ /gifid*:* reply to a gif to me to tell you its file ID.
  
 *Self addded information:* 
-❂ /setme <text>*:* will set your info
-❂ /me*:* will get your or another user's info.
+☼︎ /setme <text>*:* will set your info
+☼︎ /me*:* will get your or another user's info.
 Examples:
-❂ /setme I am a wolf.
-❂ /me @username(defaults to yours if no user specified)
+☼︎ /setme I am a wolf.
+☼︎ /me @username(defaults to yours if no user specified)
  
 *Information others add on you:* 
-❂ /bio*:* will get your or another user's bio. This cannot be set by yourself.
-❂ /setbio <text>*:* while replying, will save another user's bio 
+☼︎ /bio*:* will get your or another user's bio. This cannot be set by yourself.
+☼︎ /setbio <text>*:* while replying, will save another user's bio 
 Examples:
-❂ /bio @username(defaults to yours if not specified).
-❂ /setbio This user is a wolf (reply to the user)
+☼︎ /bio @username(defaults to yours if not specified).
+☼︎ /setbio This user is a wolf (reply to the user)
  
 *Overall Information about you:*
-❂ /info*:* get information about a user. 
+☼︎ /info*:* get information about a user. 
  
 *json Detailed info:*
-❂ /json*:* Get Detailed info about any message.
+☼︎ /json*:* Get Detailed info about any message.
  
 *AFk:*
 When marked as AFK, any mentions will be replied to with a message stating that you're not available!
-❂ /afk <reason>*:* Mark yourself as AFK.
+☼︎ /afk <reason>*:* Mark yourself as AFK.
   - brb <reason>: Same as the afk command, but not a command. 
   
 *What is that health thingy?*
