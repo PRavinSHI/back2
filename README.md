@@ -40,7 +40,7 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 
 ## Credit 
   
-   -  [⛓️✨🇵​🇷​𝘼〽️𝙔𝘼𝙑𝙄𝙉𝘾𝙔⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ༄✨⛓️](https://t.me/Gplove_Rp)
+   - [⛓️✨🇵​🇷​𝘼〽️𝙔𝘼𝙑𝙄𝙉𝘾𝙔⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ༄✨⛓️](https://t.me/Gplove_Rp)
    - [༒☬ 𝕭𝖑𝖆𝖈𝖐 ☬༒](https://t.me/nanapdithan)
    - [⭕𝐕𝐀𝐀𝐓𝐇𝐈⭕](https://t.me/thala_vera_maari)
    - [😈 ⃟💘⃞🇦𝗹𝗮𝗻 🇼𝗮𝗹𝗸𝗲𝗿](https://t.me/alpha_romeo_06)
