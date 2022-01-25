@@ -1,5 +1,5 @@
 <p align="center"> 🇷 ⭕ 🇸 🇮   
-  <img src="https://telegra.ph/file/bb5c64cf6fc7facd37b08.jpg">
+  <img src="https://telegra.ph/file/85bfb0f5af421fd03a767.jpg">
 </p>
 
 <h4><p align="center"> EMIKO ROBOT </p></h4>
@@ -33,7 +33,7 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 
 ### Support
 <p>
-<a href="https://t.me/Gplove_Rp"> <img src="https://img.shields.io/badge/Sena-Ex-blue?&logo=telegram" alt="Sena on Telegram" /> </a><br>
+<a href="https://t.me/Gplove_Rp"> <img 𝗚𝗽="https://img.shields.io/badge/Sena-Ex-blue?&logo=telegram" alt="Sena on Telegram" /> </a><br>
 <a href="https://t.me/Rosisupport"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
 <a href="https://t.me/MissRosinetwork"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
 </p>
