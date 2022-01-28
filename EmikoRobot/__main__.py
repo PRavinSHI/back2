@@ -82,13 +82,13 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 
-✯ /start: Starts me! You've probably already used this.
-✯ /help: Click this, I'll let you know about myself!
-✯ /donate: You can support my creater using this command.
-✯ /settings : 
-╚══✯in PM: will send you your settings for all supported modules.
-    ✯ in a Group: will redirect you to pm, with all that chat's settings.
-   Powered by : [⛓️🇵​🇷​𝘼〽️𝙔𝘼𝙑𝙄𝙉𝘾𝙔༄⛓️](https://t.me/RosiEventswinnerList)
+༄ /start: Starts me! You've probably already used this.
+༄ /help: Click this, I'll let you know about myself!
+༄ /donate: You can support my creater using this command.
+༄ /settings : 
+╚══༄in PM: will send you your settings for all supported modules.
+    ༄ in a Group: will redirect you to pm, with all that chat's settings.
+   Powered by : [𝐏𝐑𝐀𝐕𝐈𝐍𝐂𝐘](https://t.me/RosiEventswinnerList)
 """
 
 buttons = [
@@ -113,7 +113,7 @@ Click on the button bellow to get description about specifics command."""
 EMI_IMG = "https://telegra.ph/file/85bfb0f5af421fd03a767.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting [⛓️🇵​🇷​𝘼〽️𝙔𝘼𝙑𝙄𝙉𝘾𝙔༄⛓️](https://t.me/Gplove_Rp) \
+ You can support the project by contacting [𝐏𝐑𝐀𝐕𝐈𝐍𝐂𝐘](https://t.me/Gplove_Rp) \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
@@ -456,7 +456,7 @@ def emiko_about_callback(update, context):
         )
     elif query.data == "emiko_support":
         query.message.edit_text(
-            text="*♕︎ Emiko support chats*"
+            text="*♕︎ Rosi support chats*"
             "\nJoin My Support Group/Channel for see or report a problem on Emiko.",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
@@ -492,7 +492,7 @@ def emiko_about_callback(update, context):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="GBAN APPEAL", url="https://t.me/Rosi_Ban_appeal_Cat"
+                            text="GBAN APPEAL", url="https://t.me/Teamshadow_Appeal"
                         ),
                         InlineKeyboardButton(
                             text="BAN LOG", url="https://t.me/rosi_logs"
@@ -503,7 +503,7 @@ def emiko_about_callback(update, context):
                             text="BOT RCT CALL", url="https://t.me/rosi_logs"
                         ),
                         InlineKeyboardButton(
-                            text="VEDIO CHANNEL", url="https://t.me/GP_CREATION_CAT"
+                            text="VEDIO CHANNEL", url="https://t.me/GPCREATIONCAT"
                         ),
                     ],
                     [
@@ -516,7 +516,7 @@ def emiko_about_callback(update, context):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="✨🇵​🇷​𝘼〽️𝙔𝘼𝙑𝙄𝙉𝘾𝙔༄✨", url="https://t.me/Rosiultra_bot"
+                            text="PRAVINCY", url="https://t.me/Rosiultra_bot"
                         ),
                         InlineKeyboardButton(
                             text="BOT UPDATE", url="https://t.me/MissRosinetwork"
