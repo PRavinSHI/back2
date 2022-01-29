@@ -89,7 +89,7 @@ def gban(update: Update, context: CallbackContext):
 
     if int(user_id) in DEV_USERS:
         message.reply_text(
-            "That user is part of the Association\nI can't act against our own.",
+            "I do not have the power to ban him😥.",
         )
         return
 
@@ -101,7 +101,7 @@ def gban(update: Update, context: CallbackContext):
 
     if int(user_id) in DEMONS:
         message.reply_text(
-            "OOOH someone's trying to gban a Demon Disaster! *grabs popcorn*",
+            "This person can be banned!  But it costs 2500 / - rupees only😑",
         )
         return
 
