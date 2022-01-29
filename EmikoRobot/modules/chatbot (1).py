@@ -16,7 +16,7 @@ url = "https://acobot-brainshop-ai-v1.p.rapidapi.com/get"
 translator = google_translator()
 
 
-async def lunaQuery(query: str, user_id: int):
+async def RosiQuery(query: str, user_id: int):
     luna = await arq.luna(query, user_id)
     return luna.result
 
@@ -62,20 +62,20 @@ async def hmm(_, message):
         lel = await edit_or_reply(message, "`Processing...`")
         lol = add_chat(int(message.chat.id))
         if not lol:
-            await lel.edit("LUNA AI Already Activated In This Chat")
+            await lel.edit("ROSI AI Already Activated In This Chat")
             return
         await lel.edit(
-            f"LUNA AI Actived by {message.from_user.mention()} for users in {message.chat.title}"
+            f"ROSI AI Actived by {message.from_user.mention()} for users in {message.chat.title}"
         )
 
     elif status == "OFF" or status == "off" or status == "Off":
         lel = await edit_or_reply(message, "`Processing...`")
         Escobar = remove_chat(int(message.chat.id))
         if not Escobar:
-            await lel.edit("LUNA AI Was Not Activated In This Chat")
+            await lel.edit("ROSI AI Was Not Activated In This Chat")
             return
         await lel.edit(
-            f"LUNA AI Deactivated by {message.from_user.mention()} for users in {message.chat.title}"
+            f"ROSI AI Deactivated by {message.from_user.mention()} for users in {message.chat.title}"
         )
 
     elif status == "EN" or status == "en" or status == "english":
@@ -121,19 +121,19 @@ async def hmm(client, message):
         message.continue_propagation()
     if chat_id in en_chats:
         test = msg
-        test = test.replace("LUNA", "Aco")
-        test = test.replace("LUNA", "Aco")
-        test = test.replace("My god is @alpha_romeo_06", "he'is goodboy ")
+        test = test.replace("ROSI", "Aco")
+        test = test.replace("ROSI", "Aco")
+        test = test.replace("My god is @Gplove_Rp", "he'is Nice Person  ")
         test = test.replace("16", "9")
-        test = test.replace("@alpha_romeo_06 is my husband.", "I'm single.")
-        test = test.replace("My husband is @alpha_romeo_06", "I'm single.")
-        test = test.replace("@lunasupportz", "luna.ai")
+        test = test.replace("@Gplove_Rp is my husband.", "I'm single.")
+        test = test.replace("My husband is @Gplove_Rp", "I'm single.")
+        test = test.replace("@Rosisupport", "Rosi.ai")
         test = test.replace(
-            "I live in @lunasupportz.", "I live in San Francisco, California."
+            "I live in @Rosisupport.", "I live in Egmore, chennai."
         )
-        test = test.replace("I was created by @alpha_romeo_06", "I made myself")
+        test = test.replace("I was created by @Gplove_Rp", "I made myself")
         test = test.replace(
-            "Hello there I am luna...nice to meet u",
+            "Hello there I am Rosi...nice to meet u",
             "Hi, my friend! Do you want me to tell you a joke?",
         )
         test = test.replace("@alpha_romeo_06 is my owner", "Have the control right.")
