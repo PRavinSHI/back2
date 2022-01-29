@@ -17,8 +17,8 @@ translator = google_translator()
 
 
 async def RosiQuery(query: str, user_id: int):
-    luna = await arq.luna(query, user_id)
-    return luna.result
+    Rosi = await arq.Rosi(query, user_id)
+    return Rosi.result
 
 
 def extract_emojis(s):
@@ -161,7 +161,7 @@ async def hmm(client, message):
         response = response.replace("I made myself", "I was Created by @Gplove_Rp")
         response = response.replace(
             "Hi, my friend! Do you want me to tell you a joke?",
-            "Hello there I am luna...nice to meet u",
+            "Hello there I am Rosi...nice to meet u",
         )
         response = response.replace(
             "Have the control right.", "@Gplove_Rp is my owner."
@@ -228,7 +228,7 @@ async def hmm(client, message):
         test = test.replace("@Gplove_Rp is my husband.", "I'm single.")
         test = test.replace("@Rosisupport", "Rosi.ai")
         test = test.replace(
-            "I live in @Rosisupport.", "I live Egmore, chennai"
+            "I live in @Rosisupport.", "I live in Egmore, chennai"
         )
         test = test.replace("I was created by @Gplove_Rp", "I made myself")
         test = test.replace(
@@ -255,7 +255,7 @@ async def hmm(client, message):
         response = response.replace("I'm single.", "My husband is @Gplove_Rp")
         response = response.replace("Rosi.ai", "@Rosisupport")
         response = response.replace(
-            "I live in San Francisco, California.", "I live in @Rosisupport."
+            "I live in Egmore, Chennai.", "I live in @Rosisupport."
         )
         response = response.replace("I made myself", "I was Created by @Gplove_Rp")
         response = response.replace(
@@ -263,7 +263,7 @@ async def hmm(client, message):
             "Hello there I am Rosi...nice to meet u",
         )
         response = response.replace(
-            "Have the control right.", "♕︎@Gplove_Rp is my owner."
+            "Have the control right.", "@Gplove_Rp is my owner."
         )
         response = response.replace(
             "Hi, my friend, what can I do for you today?",
@@ -337,7 +337,7 @@ async def inuka(client, message):
     test = test.replace("@Gplove_Rp is my husband.", "I'm single.")
     test = test.replace("@Rosisupport", "Rosi.ai")
     test = test.replace(
-        "I live in @Rosisupport.", "I Live Egmore, Chennai."
+        "I live in @Rosisupport.", "I Live in 0Egmore, Chennai."
     )
     test = test.replace("I was created by @Gplove_Rp", "I made myself")
     test = test.replace(
@@ -346,11 +346,11 @@ async def inuka(client, message):
     )
     test = test.replace("@Gplove_Rp is my owner", "Have the control right.")
     test = test.replace(
-        "Hi, My name is luna Nice to meet you.",
+        "Hi, My name is Rosi Nice to meet you.",
         "Hi, my friend, what can I do for you today?",
     )
 
-    response = await lunaQuery(test, message.from_user.id if message.from_user else 0)
+    response = await RosiQuery(test, message.from_user.id if message.from_user else 0)
     response = response.replace("Aco", "Rosi")
     response = response.replace("aco", "Rosi")
     response = response.replace("Rosi", "Rosi")
@@ -443,7 +443,7 @@ async def inuka(client, message):
 
     test = test.replace("Rosi", "Aco")
     test = test.replace("Rosi", "Aco")
-    test = test.replace("My god is @Gplove_Rp", "my master is busy  did know him name was PRAMYAVINCY AND USER NAME @Gplove_Rp")
+    test = test.replace("My god is @Gplove_Rp", "my master is busy man  did know him name was PRAMYAVINCY AND USER NAME @Gplove_Rp")
     test = test.replace("16", "9")
     test = test.replace("@Gplove_Rp", "I'm single.")
     test = test.replace("@Rosisupport", "Rosi.ai")
@@ -468,10 +468,10 @@ async def inuka(client, message):
     response = response.replace("my master handsome and cool guy", "My god is @Gplove_Rp")
     response = response.replace("I'm married to my job.", "I'm married with @Gplove_Rp")
     response = response.replace("9", "16")
-    response = response.replace("I'm single.", "My husband is @alpha_romeo_06")
-    response = response.replace("luna.ai", "@lunasupportz")
+    response = response.replace("I'm single.", "My husband is @Gplove_Rp")
+    response = response.replace("luna.ai", "@Rosisupport")
     response = response.replace(
-        "I live in San Francisco, California.", "I live in @Rosisupport."
+        "I live in Egmore, Chennai.", "I live in @Rosisupport."
     )
     response = response.replace("I made myself", "I was Created by @Gplove_Rp")
     response = response.replace(
