@@ -163,7 +163,7 @@ def gban(update: Update, context: CallbackContext):
 
         return
 
-    message.reply_text("━G⃣𝗕𝗔𝗡 O⃣𝗡 P⃣𝗥𝗢𝗚𝗥𝗘𝗦𝗦━")
+    message.reply_text("🤫𝗦𝗛𝗔𝗗🔲𝗪༄ 𝗚𝗕𝗔𝗡 🔲𝗡 𝗣𝗥🔲𝗚𝗥𝗘𝗦𝗦🤫)
 
     start_time = time.time()
     datetime_fmt = "%Y-%m-%dT%H:%M"
@@ -258,9 +258,9 @@ def gban(update: Update, context: CallbackContext):
 
     if gban_time > 60:
         gban_time = round((gban_time / 60), 2)
-        message.reply_text("━M⃣𝗔𝗖𝗛𝗔 G⃣𝗕𝗔𝗡 P⃣𝗔𝗡𝗜𝗧𝗔𝗡━", parse_mode=ParseMode.HTML)
+        message.reply_text("🤫𝗦𝗛𝗔𝗗🔲𝗪༄ 𝗚𝗕𝗔𝗡 🔲𝗡 𝗣𝗥🔲𝗚𝗥𝗘𝗦𝗦🤫", parse_mode=ParseMode.HTML)
     else:
-        message.reply_text("━M⃣𝗔𝗖𝗛𝗔 G⃣𝗕𝗔𝗡 P⃣𝗔𝗡𝗜𝗧𝗔𝗡━", parse_mode=ParseMode.HTML)
+        message.reply_text("🤫𝗦𝗛𝗔𝗗🔲𝗪༄ 𝗚𝗕𝗔𝗡 🔲𝗡 𝗣𝗥🔲𝗚𝗥𝗘𝗦𝗦🤫", parse_mode=ParseMode.HTML)
 
     try:
         bot.send_message(
