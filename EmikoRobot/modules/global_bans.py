@@ -163,7 +163,7 @@ def gban(update: Update, context: CallbackContext):
 
         return
 
-    message.reply_text("🤫𝗦𝗛𝗔𝗗🔲𝗪༄ 𝗚𝗕𝗔𝗡 🔲𝗡 𝗣𝗥🔲𝗚𝗥𝗘𝗦𝗦🤫)
+    message.reply_text("🤫𝗦𝗛𝗔𝗗🔲𝗪༄ 𝗚𝗕𝗔𝗡 🔲𝗡 𝗣𝗥🔲𝗚𝗥𝗘𝗦𝗦🤫")
 
     start_time = time.time()
     datetime_fmt = "%Y-%m-%dT%H:%M"
